@@ -1,0 +1,13 @@
+*{
+  margin: 0;  
+  box-sizing: border-box;
+}
+
+body {
+    font-style: arial,helvetica,sans-serif;
+}
+.virsraksts{
+    color: rgb(255, 91, 206);
+    font-size: 48px;
+    font-weight: bold;
+}
